@@ -4,5 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: bb57bf917ca43b54fbf5f1bfb05bc20b
+  - enabled: 1
+    path: Assets/Scenes/Deathy.unity
+    guid: 55c834e94c83f144e939ff04a40411af
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
